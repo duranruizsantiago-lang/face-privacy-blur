@@ -1,0 +1,22 @@
+# venv
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# resultados generados
+outputs/
+
+# (opcional) tus imágenes personales
+data/
+
+# (opcional) si NO quieres subir el modelo
+# models/
+
+# editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
